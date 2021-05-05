@@ -119,4 +119,4 @@ if (final_df is not None) and (len(final_df)):
 else:
     st.error("Unable to fetch data currently, please try after sometime")
 
-st.markdown("_- Brett Miranda_")
+st.markdown("_- Bhavesh Bhatt_")
